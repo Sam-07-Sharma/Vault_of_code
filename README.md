@@ -1,2 +1,2 @@
 # Vault_of_codes
-this is my first repository.
+This is my first Git repository.
